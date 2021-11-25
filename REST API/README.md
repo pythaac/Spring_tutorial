@@ -1,4 +1,4 @@
-# REST API test
+# REST API test with react native
 This codes for simple REST API test between react native (android) and spring boot
 
 ### Usage
