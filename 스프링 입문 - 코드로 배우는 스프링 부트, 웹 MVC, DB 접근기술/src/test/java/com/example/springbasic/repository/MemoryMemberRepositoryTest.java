@@ -1,4 +1,4 @@
-package repository;
+package com.example.springbasic.repository;
 
 import com.example.springbasic.domain.Member;
 import com.example.springbasic.repository.MemoryMemberRepoistory;
