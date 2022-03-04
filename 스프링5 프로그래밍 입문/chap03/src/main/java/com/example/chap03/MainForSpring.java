@@ -13,7 +13,7 @@ public class MainForSpring
 
     public static void main(String[] args) throws IOException
     {
-        ctx = new AnnotationConfigApplicationContext(AppConf1.class, AppConf2.class);
+        ctx = new AnnotationConfigApplicationContext(AppConfImport.class);
 
         BufferedReader reader =
                 new BufferedReader(new InputStreamReader((System.in)));
